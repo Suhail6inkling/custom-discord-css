@@ -1,0 +1,181 @@
+@-webkit-keyframes rainbow {
+    0% {
+        color: orange;
+    }
+
+    10% {
+        color: purple;
+    }
+
+    20% {
+        color: red;
+    }
+
+    30% {
+        color: CadetBlue;
+    }
+
+    40% {
+        color: yellow;
+    }
+
+    50% {
+        color: coral;
+    }
+
+    60% {
+        color: green;
+    }
+
+    70% {
+        color: cyan;
+    }
+
+    80% {
+        color: DeepPink;
+    }
+
+    90% {
+        color: DodgerBlue;
+    }
+
+    100% {
+        color: orange;
+    }
+}
+
+
+@-webkit-keyframes my_own {}
+
+@-webkit-keyframes fade {
+    0% {
+        color: white
+    }
+
+    50% {
+        color: green
+    }
+
+    100% {
+        color: white
+    }
+}
+
+
+@-webkit-keyframes fade-dot {
+    0% {
+        background-colorcolor: white
+    }
+
+    50% {
+        background-color: green
+    }
+
+    100% {
+        background-color: white
+    }
+}
+
+.nameUnreadText-DfkrI4.name-3M0b8v.overflowEllipsis-jeThUf {
+    /* Chrome, Safari, Opera */
+    -webkit-animation: fade 10s infinite;
+
+    /* Internet Explorer */
+    -ms-animation: fade 10s infinite;
+
+    /* Standar Syntax */
+    animation: fade 1s infinite;
+}
+
+.unread-1Dp-OI {
+    -webkit-animation: fade-dot 10s infinite;
+
+    /* Internet Explorer */
+    -ms-animation: fade 10s infinite;
+
+    /* Standar Syntax */
+    animation: fade-dot 1s infinite;
+}
+
+
+.iconDefault-3Gr8d2.iconTransition-2pOJ7l.directionDown-26e7eE {
+    color: #00000000
+}
+
+.containerDefault-1ZnADq {
+    text-align: center;
+    color: aliceblue
+}
+
+.name-3M0b8v {
+    color: #00bb00;
+    font-family: "Source Code Pro"
+}
+
+
+.colorDefaultText-oas-QM.icon-sxakjD,
+.colorSelectedText-1y4Wvs.icon-sxakjD,
+.colorMutedText-36M8WR.icon-sxakjD,
+.colorHoveredText-OZnAgu.icon-sxakjD,
+.colorUnreadText-2t7XRb.icon-sxakjD {
+    display: none;
+}
+
+
+
+.colorTransition-2-M2tg.overflowEllipsis-2JOaZ6 {
+    color: #0f0 !IMPORTANT;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
+}
+
+.nameMutedText-3Vj4bM {
+    color: #00800077
+}
+
+.actionIcon-2Hi9ZG {
+    display: none;
+}
+
+.linkButtonIcon-Mlm5d6 {
+    color: #00ff00
+}
+
+.name-2WpE7M {
+    font-family: "Source Code Pro";
+    color: green;
+    opacity: 1;
+    text-align: center;
+}
+
+.activity-525YDR, .activityText-OW8WYb {
+    color: #0f0;
+    font-family: "Source Code Pro";
+    text-align: center !IMPORTANT;
+}
+
+.activityText-OW8WYb {
+    display: none;
+}
+
+.activityIcon-1mtTk4 {
+    display: none;
+}
+
+.wrapper-2F3Zv8.small-5Os1Bb.forceDarkTheme-2cI4Hb.avatar-small {
+    display: none;
+}
+
+
+.privateChannels-1nO12o header {
+    color: #0f0;
+    opacity: 1;
+    font-family: "Source Code Pro";
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+body {}
